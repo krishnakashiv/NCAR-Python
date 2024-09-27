@@ -1,4 +1,4 @@
-# ncar-python-rait  (DO NOT SHARE OR MAKE THIS REPOSITORY PUBLIC)
+# ncar-python-rait 
 NCL to Python Transition
 
 This repository is a part of NCL to Python Transition Project.
