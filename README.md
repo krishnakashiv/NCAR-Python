@@ -1,4 +1,4 @@
-# ncar-python-rait 
+# GEOCAT (Geoscience Community Analysis Tookkit)
 NCL to Python Transition
 
 This repository is a part of NCL to Python Transition Project.
