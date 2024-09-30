@@ -1,4 +1,4 @@
-# GEOCAT (Geoscience Community Analysis Tookkit)
+# GEOCAT (Geoscience Community Analysis Toolkit)
 NCL to Python Transition
 
 This repository is a part of NCL to Python Transition Project.
