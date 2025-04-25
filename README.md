@@ -1,7 +1,7 @@
 # GEOCAT (Geoscience Community Analysis Toolkit)
 NCL to Python Transition
 
-This repository is a part of NCL to Python Transition Project.
+This repository is a part of NCL to Python Transition Project. All tests and plots are run on Cray and IBM based supercomputers at IITM, Pune.
 
 This repository contains:
 1. NCL routines reproduced in Python,
